@@ -15,7 +15,7 @@ Reinforcement Learning (RL) is a type of machine learning where an agent learns 
 - **Environment**: The external system with which the agent interacts.
 - **Actions**: The choices made by the agent.                        
 - **Rewards**: Feedback from the environment to evaluate the action.
-- **Policy**: The strategy the agent uses to determine actions.
+- **Policy**: The strategy the agent uses to determine actions.                 
 
 #### 🌐 **Applications of RL:**
 - 🤖 Robotics
