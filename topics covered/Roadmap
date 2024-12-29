@@ -1,6 +1,8 @@
 Types of machine learning: 3 types :
 1. Supervised Learning
 2. Unsupervised Learning
-3.Reinforcement Learning
-reinforcement learning  ---->      Q-learning
-Recommender Systems
+3. Reinforcement Learning
+
+Q-Learning is the part of reinforcement learning
+
+Recommender Systems are separate topics used in machine learning
