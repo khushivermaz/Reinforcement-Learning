@@ -1,4 +1,4 @@
-# 🌟 **README for Reinforcement Learning, Q-Learning, and Recommender Systems** 🌟
+# 🌟 **README for Reinforcement Learning, Q-Learning, and Recommender Systems** 🌟                   
 
 ---
 
