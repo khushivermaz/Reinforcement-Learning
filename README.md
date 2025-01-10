@@ -5,7 +5,7 @@
 ## 🎯 **Overview** 
 This repository contains materials and projects related to **Reinforcement Learning (RL)**, **Q-Learning**, and **Recommender Systems**. These are key concepts in the fields of Machine Learning and Artificial Intelligence.            
                                                                                                     
----                                
+---                                 
              
 ### 🤖 **Reinforcement Learning**                
 Reinforcement Learning (RL) is a type of machine learning where an agent learns to make decisions by interacting with an environment. The agent receives rewards or penalties based on its actions and aims to maximize the cumulative reward.                  
