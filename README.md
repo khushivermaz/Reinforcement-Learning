@@ -27,7 +27,7 @@ Reinforcement Learning (RL) is a type of machine learning where an agent learns 
 
 ### 🔢 **Q-Learning**
 Q-Learning is a popular algorithm in Reinforcement Learning. It is a value-based method where the agent learns a function, known as the Q-function, to predict the expected utility of taking a specific action in a given state.
-
+                              
 #### 📌 **Key Concepts of Q-Learning:**
 - **Q-Value (Quality):** Represents the expected rewards for an action at a state.
 - **Update Rule:** The Q-value is updated iteratively using the Bellman equation:
