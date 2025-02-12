@@ -82,7 +82,7 @@ Recommender systems predict user preferences and suggest relevant items. These s
 2. Install the required dependencies:
    ```bash
    pip install -r requirements.txt
-   ```
+   ```                             
 3. Explore the folders for detailed code and documentation.
 
 ---
