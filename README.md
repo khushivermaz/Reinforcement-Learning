@@ -2,7 +2,7 @@
                             
 ---                                                                                                                                                                                                                                                                                                      
                                                                                                                                                        
-## 🎯 **Overview**  
+## 🎯 **Overview**   
 This repository contains materials and projects related to **Reinforcement Learning (RL)**, **Q-Learning**, and **Recommender Systems**. These are key concepts in the fields of Machine Learning and Artificial Intelligence.                                                                                                    
                                                                                                                    
 ---                                                                                                                     
@@ -88,7 +88,7 @@ Recommender systems predict user preferences and suggest relevant items. These s
 ---
 
 ### 🤝 **Contributions**
-Contributions are welcome! Feel free to open issues or submit pull requests to improve this repository.
+Contributions are welcome! Feel free to open issues or submit pull requests to improve this repository. 
 
 ---
                                                   
